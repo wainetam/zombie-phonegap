@@ -1,0 +1,11 @@
+{
+    "com.signal360.SignalPGPlugin": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wainetam/sn-phonegap.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
